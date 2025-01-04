@@ -235,6 +235,7 @@ etc.
 
 | Problem | Solution |
 |----------|----------|
+| The pipboy becomes invisible | Open console with Ñ and do player.removeitem 21b3b and then player.equipitem 21b3b, tested for Fallout London (4/1/2025) |
 | The protagonist's voice is silent when looking into the mirror at the start of the game! | Be sure to go to Steam, properties of the game and change the language to "English"! (found 5/11/23). Happened to me because Steam detected my language as Spanish and didn't care to install the English language files. |
 | I want to avoid the Bethesda logo intro. | Open steamapps\common\Fallout 4\Data\Video\ and delete or rename the file “GameIntro_V3_B.bk2” |
 | I don't remember how to turn on/off the pip-boy flashlight. | **HOLD** tab key! |
