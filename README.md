@@ -14,21 +14,12 @@ My personal mod selection for Fallout London. I do not claim any copyright or ow
 - SavrenX Landscape Interior Building DLC
 - Real Troughs - New Brahmin Feeders
 - Burning Fusion Core Blue 1k
-- Industrial Retexture
+Industrial Retexture
 - Livewire Main File 1.4.2
-- Knife Anims
 - Lockpick Interface Retexture - 4k
-- Gauss Rifle Anims
-- Select Blaster ESP 1.0.2
-- 4k cap stash
-- Better Doors v1.2
 - Classic Skill Books - New Magazines - Pugilism - Deans - Nikola Tesla - And More - Classic Skill Books - BA2
 - Beautiful Female Enemies V. 2.0
-- 10mm HD - 4k
-- 2287 - Billboards and Posters - Decadent version
-- Alexanders SCAV Magazine - Very Weathered
 - Total Hack - Complete
-- Automatron workstation terminal with keyboard text - terminal rexture
 - American 180 - Main - 4K Version
 - Fill&#39;em Up Again (Dynamic Bottle Recyclation) - Loose Files
 - Fast Travel Background Load AI Detection Fix - ESL
@@ -66,122 +57,56 @@ My personal mod selection for Fallout London. I do not claim any copyright or ow
 - The Laser Series - 4k esl
 - Commonwealth Canvases Blackened Brass 4k
 - Jurttu's Interiors 1.3
-- Boon Island
-- Manly Mason Eyes of Beauty Eyes
-- HD LOD Textures
-- Detailed Deathclaw Skin - geck-skin 2
-- Skylanes Flight 1981 Crash Site V1.2
-- Capital Wasteland Behemoths
-- Emirals The Machine and Her Revival
-- Flourishing Salem ESL
-- Williams Plaza
-- The Fens Sheriff's Department - Textures
-- Ellen - the cartographer - Ellen - Final version
-- Immersive Hub City Auto Wreckers
-- America Rising 2 - Fashion of the Enclave
 - All Weapons HD 4K Full
 - KARMA
 - New Far Harbor Bobbleheads - ESL Flagged ESP
-- South of the Sea - Atoms Storm
-- HiPoly Faces REDUX - Seamless Kit (CBBE-TWB)
-- Maxwell's World - Extended Dialogue Interface Patch
 - SL Magazines
 - Rusty Subway Textures
 - Workbench Replacer - HIGH - DESATURATED
-- exShinra's Better Road Textures - Better Roads v0.02
-- The Lost Building of Atlantic - Atlantic Offices
-- Millennium Clutter - Base Object Swapper
-- Millennium Clutter ESL flagged ESP
 - BN Laundry Detergent (Ba2)
-- The Hunting Rifle Set - 4k esl
 - Fallout Brotherhood - A Storyteller Quest Mod
 - Dak's Assault Rifle Replacer REDUX (remesh) - Machine Gun Remesh
-- Hunting Rifle Animation Replacer
-- FG's Deliverer Animation Overhaul 2.1
-- Kremvh&#39;s Tooth Replacer
-- Volkssturmgewehr
-- One Handed Revolver 1.4a
-- David Hunter - Part 2
-- DLC Leveled List Integration and Rebalance
 - Hunkered Down
 - Glowing Bobbleheads NMM Fomod install
 - In The Flesh
 - Wasteland Illumination Shadow Version
 - Retextured Chems 2 - Ephla&#39;s Unique Chems
 - Capital Wasteland Robot Pack Main Files
-- Nuka Project 4k esl
 - The Natural Bundle - Assorted Textures (2K - 4K) - Masonry Set 4K
-- 
-Better Bed Mattress Textures - Grimy Mattress
-The Experiment
-Proper Flyers and Posters v2.1
-Immersive Power Armor Weapon Restrictions
-U.S. Covert Operations Manual Redux - Magazine Retexture - 1. Covert Ops Revised - Complete
-Ammo Retexture
-SavrenX Food and Foodware
-newripper
-HP Vanilla Weapons - Main
-America Rising 2 - Legacy of the Enclave
-Thompson SMG Replacer
-Fallout 4 - Point Lookout
-More Bobbleheads
-Historical Painting Replacer - ESP
-WattzLaserGunAnimationFixes
-Fallout 4 Next Gen Matswap Bug Fix
-Novatron Torso Fix
-No Bethesda and S.P.E.C.I.A.L Intro
-The Sewers ESM New
-Machine Kit 4K HD Redux
-Ketaros Add-On - Terror Card Series
-GD45_DBD_Deathslinger
-DD_prelude_273
-Elevator Buttons Fix (Contraptions) - Latest Version
-CoA Overhaul
-Glowing Animals Emit Light - ALL DLC
-femshepping and radbeetle's KS Hairdos Conversions - Hat texture fix for version 9
-Wild Wasteland V4.5
-Better Weapon Scrap - ESL-flagged
-Age of Steel - Cybermen in the Commonwealth
-Adult billboards and posters
-The Plasma Project - 4k
-Hazmat Suit UHD - 4k
-4k - bottles label overhaul v0.9.1
-gt_Misc Hairstyles by Atherisz - Textures 2K_v1.0
-RichSettlementMerchants_V_1_0
-Operation Wilkes Estate
-Automatron Expanded Weapons System
-Ice Cold Nuka Cherry Fix esp
-Capital Wasteland Raider Pack - CW Raiders
-WeaponDropStop
-MTs-255 Revolver Shotgun - 4K Textures
-MTs-255 First Person Animation Replacer
-FO4FI HD Series (HD Power Armor)
-Police Shotgun (Remington 870) - Commonwealth Weaponry Expansion - Police Shotgun
-Langleys HD Textures Workshop
-The Natural Bundle - Assorted Textures (2K - 4K) - Cave Set 4K
-The Natural Bundle - Assorted Textures (2K - 4K) - Bunker Set - 4K
-Fallout 4 Combat Shotgun and Rifle retexture - 4096 tex
-Immersive Lexington 1.8
-No Quest Autostart - Automatron
-Commonwealth Improvements - Fort Strong
-Atomic Radio and Tales from the Commonwealth - Atomic Radio v2.6
-better notes
-Synths Revamped
-HD Raider Armor Retex
-SavrenX HD Vanilla Armor
-Protectron HD 4K
-Wasteland Heroines Replacer All in One
-CSEP Presents All Americans 2.0 DELUXE EXPANDED EDITION - Quest Mod - CSEP All Americans
-New Equipment Overhaul (NEO) - Armour And Clothing Tweaks - NEO
-Sim Settlements 2 - All Chapters Pack
-Sim Settlements 2: Chapter 3 All Chapter Pack
-New Equipment Overhaul (NEO) - Armour And Clothing Tweaks - NEO
-Hit Those Explosives
-TWH_ConcordHideout
-Garden of Eden Papyrus Script Extender - Next-Gen
-WWW - The Wasteland Wide Warehouse Project - Valve Handgun - Valve Handgun - Leveled List
-Leveled Item Fixes (LIF) - LIF
-CSEP Presents Loaded Bases 2.0 - The Final Chapter - Quest Mod - Loaded Bases 2.0
+- Better Bed Mattress Textures - Grimy Mattress
+- The Experiment
+- Proper Flyers and Posters v2.1
+- Immersive Power Armor Weapon Restrictions
+- Ammo Retexture
+- SavrenX Food and Foodware
+- newripper
+- HP Vanilla Weapons - Main
+- Historical Painting Replacer - ESP
+- Fallout 4 Next Gen Matswap Bug Fix
+- Novatron Torso Fix
+- No Bethesda and S.P.E.C.I.A.L Intro
+- Machine Kit 4K HD Redux
+- Elevator Buttons Fix (Contraptions) - Latest Version
+- CoA Overhaul
+- Glowing Animals Emit Light - ALL DLC
+- Wild Wasteland V4.5
+- Better Weapon Scrap - ESL-flagged
+- Age of Steel - Cybermen in the Commonwealth
+- The Plasma Project - 4k
+- Hazmat Suit UHD - 4k
+- 4k - bottles label overhaul v0.9.1
+- Capital Wasteland Raider Pack - CW Raiders
+- Langleys HD Textures Workshop
+- better notes
+- Synths Revamped
+- HD Raider Armor Retex
+- SavrenX HD Vanilla Armor
+- Protectron HD 4K
+- New Equipment Overhaul (NEO) - Armour And Clothing Tweaks - NEO
+- New Equipment Overhaul (NEO) - Armour And Clothing Tweaks - NEO
+- Hit Those Explosives
+- Garden of Eden Papyrus Script Extender - Next-Gen
+- Leveled Item Fixes (LIF) - LIF
 
 # Mods to avoid --- DON'T INSTALL THIS EVER! ---
 
@@ -223,6 +148,7 @@ This suggestions are from the Buffout 4 tutorial page:
 
 | Mod | Problem/s |
 |----------|----------|
+| Munitions and Munitions - Fallout London Patch | Crashes at entering the Bank of England in Fallout London. Checked by Jaume on 8/1/2025. |
 | Immersive Facial Animations REMADE - IFAR. | NO! Too exaggerated facial animations even in the lowest presets. |
 | Capital Wasteland Behemoths NO! | Too much difficult! Although tested and they look and behave good they are too much difficult. |
 | FlaconOil's Complete Retexture Project. | NO! Gives a lot of conflicts with other mods in the modlist and performance problems and a heavy drop of FPS in certain areas. |
@@ -257,12 +183,13 @@ etc.
 
 # Fix/fixes
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Community Fixes Merged](https://www.nexusmods.com/fallout4/mods/74945) | A collection of fixes made by the community over the years, with open permissions. | [Community Fixes Merged - Spanish.](https://www.nexusmods.com/fallout4/mods/75033) |
-| [Long Loading Times Fix.](https://www.nexusmods.com/fallout4/mods/73469) | F4SE plugin to fix long loading times. Also some settings for loading screens. | todo (Russian translation is available). |
-| [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | Corrects for a longstanding bug that causes third-person mobility to be slower than first-person in almost all circumstances -- sometimes by more than half. | Not needed. |
-| [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | 'A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.' | [Unofficial Fallout 4 Patch - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35417) |
+| Number | Mod | Brief summary | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [Community Fixes Merged](https://www.nexusmods.com/fallout4/mods/74945) | A collection of fixes made by the community over the years, with open permissions. | [Community Fixes Merged - Spanish.](https://www.nexusmods.com/fallout4/mods/75033) |
+| 2 | [Long Loading Times Fix.](https://www.nexusmods.com/fallout4/mods/73469) | F4SE plugin to fix long loading times. Also some settings for loading screens. | todo (Russian translation is available). |
+| 3 | [Third-Person Movement Speed Fix](https://www.nexusmods.com/fallout4/mods/28737) | Corrects for a longstanding bug that causes third-person mobility to be slower than first-person in almost all circumstances -- sometimes by more than half. | Not needed. |
+| 4 | [Unofficial Fallout 4 Patch - UFO4P.](https://www.nexusmods.com/fallout4/mods/4598) | 'A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.' | [Unofficial Fallout 4 Patch - Spanish Translation.](https://www.nexusmods.com/fallout4/mods/35417) |
+| 5 | [Remove Ammo from Dropped Guns](https://www.nexusmods.com/fallout4/mods/64426) | Removes ammo from guns on corpses and adds it to the corpse's inventory. | todo |
 
 # Perks / Level up menu/screen
 
