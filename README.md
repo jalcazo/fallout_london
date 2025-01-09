@@ -5,8 +5,6 @@ My modlist for Fallout London
 
 My personal mod selection for Fallout London. I do not claim any copyright or ownership or involvement with any of these images, mods, or assets.
 
-- Base Object Swapper
-- Retextured Chems v.1 - Ephla's Unique Chems - Ephla's Unique Chems - Vanilla Chem Retextures ONLY
 - Community Fixes Merged
 - Ephla&#39;s Unique First Aid Kits v2
 - 2k precious metal loose new
@@ -43,7 +41,6 @@ Industrial Retexture
 - Children of Ug-Qualtoth Redux
 - Ketaros Treasures v6
 - Ketaros Treasures - DLC01 The Terror
-- Vanilla flag-textures reworked 2k with variations
 - Halffaces - Charming Halloween smile - 4K
 - Classic Brotherhood Outfits SPID
 - Armor and Weapon Keywords Community Resource v8.6.0
@@ -72,7 +69,6 @@ Industrial Retexture
 - Wasteland Illumination Shadow Version
 - Retextured Chems 2 - Ephla&#39;s Unique Chems
 - Capital Wasteland Robot Pack Main Files
-- The Natural Bundle - Assorted Textures (2K - 4K) - Masonry Set 4K
 - Better Bed Mattress Textures - Grimy Mattress
 - The Experiment
 - Proper Flyers and Posters v2.1
@@ -199,14 +195,14 @@ etc.
 
 # Immersion
 
-| Mod | Brief summary | Spanish translation |
-|----------|----------|----------|
-| [Achievements Mods Enabler.](https://www.nexusmods.com/fallout4/mods/15639/) | Enables (Steam) achievements in Fallout 4 with mods. F4SE support. | Not needed. |
-| [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | Makes wooden doors breakable with a custom explosion and debris effect. | Not needed. |
-| [Backpacks of the Commonwealth.](https://www.nexusmods.com/fallout4/mods/29447) | This mod adds 23 backpacks into the game. Backpacks spawn on NPCs, on vendors, and in containers. Featuring over 70 workbench mods and over 50 selectable skins and colors with an additional five new magazines with unique perks for each one. Don't forget about the new discoverable location to explore! | [Backpacks of the Commonwealth - ES.](https://www.nexusmods.com/fallout4/mods/64851) |
-| [Player Curses During Lockpicking and Hacking. ESL.](https://www.nexusmods.com/fallout4/mods/48771) **PICK THE ESL VERSION!**| When you break a Bobby Pin, choose the wrong password during hacking, or just get locked out of a Terminal you may mutter some "indecent" words... Well.. this mod makes them audible in the Game too. | todo with xVaSynth2? |
-| [Shatter - Shardz and Spillz.](https://www.nexusmods.com/fallout4/mods/33280) | The files in this package make many glass, ceramic, and other things destructible! | Needed? Maybe rename some things as destructible Skyrim did. Jaume |
-| [More Realistic Fire Behavior.](https://www.nexusmods.com/fallout4/mods/30246) | This mod simply makes it so that when NPCs have 100% of their skin engulfed in flames they care a little. | Not needed. |
+| Number | Mod | Brief summary | Spanish translation | Video review |
+|----------|----------|----------|----------|----------|
+| 1 | [Achievements Mods Enabler.](https://www.nexusmods.com/fallout4/mods/15639/) | Enables (Steam) achievements in Fallout 4 with mods. F4SE support. | Not needed. | :tv: todo |
+| 2 | [Splinterz - Breakable Wooden Doors](https://www.nexusmods.com/fallout4/mods/21521) | Makes wooden doors breakable with a custom explosion and debris effect. | Not needed. | :tv: todo |
+| 3 | [Player Curses During Lockpicking and Hacking. ESL.](https://www.nexusmods.com/fallout4/mods/48771) **PICK THE ESL VERSION!**| When you break a Bobby Pin, choose the wrong password during hacking, or just get locked out of a Terminal you may mutter some "indecent" words... Well.. this mod makes them audible in the Game too. | todo with xVaSynth2? | :tv: todo |
+| 4 | [Shatter - Shardz and Spillz.](https://www.nexusmods.com/fallout4/mods/33280) | The files in this package make many glass, ceramic, and other things destructible! | Needed? Maybe rename some things as destructible Skyrim did. Jaume | :tv: todo |
+| 5 | [More Realistic Fire Behavior.](https://www.nexusmods.com/fallout4/mods/30246) | This mod simply makes it so that when NPCs have 100% of their skin engulfed in flames they care a little. | Not needed. | :tv: todo |
+| 6 | [Base Object Swapper](https://www.nexusmods.com/fallout4/mods/67528) | F4SE framework for swapping base objects and references, using config files. | todo | :tv: todo |
 
 # Weapons
 
@@ -290,6 +286,7 @@ etc.
 
 | Mod | Brief summary | Spanish translation |
 |----------|----------|----------|
+| 1 | [Retextured Chems v.1 - Ephla's Unique Chems - Ephla's Unique Chems - Vanilla Chem Retextures ONLY]
 | [NMC's Texture Bundle.](https://www.nexusmods.com/fallout4/mods/31814) | Mini- texture bundle, retexturing the Nuka Cola Machine, RedRocket Truck Stops, Diners (including Drumlin), Drive-Ins, Roads (asphalt road only) and Sanctuary Bridge. Available in 3 sizes to suit your PC. | Not needed. |
 | [Industrial Objects Retexture.](https://www.nexusmods.com/fallout4/mods/8511) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
 | [Retextured Toolbox - by Ben Ephla.](https://www.nexusmods.com/fallout4/mods/20742) | ``` TODO. TO BE DONE 🚧 ``` |  Not needed. |
